@@ -6,7 +6,9 @@ Microcontroller firmware with simulation modes
 >
 > Expand the "Assets" under a release to obtain the `.uf2` file
 
-[Documentation](./docs/readme.md)
+## Documentation
+
+Checkout the documentation for the firmware [here](./docs/readme.md).
 
 ## Building
 
