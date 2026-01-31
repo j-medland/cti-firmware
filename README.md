@@ -1,6 +1,11 @@
 # cti-firmware
 Microcontroller firmware with simulation modes
 
+> [!TIP]
+> You can download the pre-built firmware from the [Github Releases Page](../../releases/latest)
+>
+> Expand the "Assets" under a release to obtain the `.uf2` file
+
 [Documentation](./docs/readme.md)
 
 ## Building
